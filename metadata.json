@@ -1,0 +1,5 @@
+{
+  "name": "React Todo App",
+  "description": "A modern and visually appealing Todo application built with React, TypeScript, and Tailwind CSS. It allows users to add, complete, and delete tasks with a clean, intuitive interface. Task persistence is handled using the browser's local storage.",
+  "requestFramePermissions": []
+}
